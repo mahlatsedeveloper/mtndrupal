@@ -24,7 +24,7 @@ run lando start and the project will run using sqlite database and drupal9
 How to query the api
 ---------------------
 
-The entity types can be queried using the following examples of the 2 custom entities created.
+The entity types can be queried using the following examples of a custom entity created.
 
 The base_url is the url with a port number ie. http://localhost:55008/jsonapi/node/restaurants that lando generated when you ran lando start
 
