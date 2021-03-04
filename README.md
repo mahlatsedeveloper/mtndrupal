@@ -29,3 +29,4 @@ The entity types can be queried using the following examples of the 2 custom ent
 The base_url is the url with a port number ie. http://localhost:55008/jsonapi/node/restaurants that lando generated when you ran lando start
 
 http://{base_url}/jsonapi/node/restaurants ( this will query all restaurants )
+http://{base_url}/jsonapi/node/article ( this will query all articles )
