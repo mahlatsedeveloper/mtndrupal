@@ -1,0 +1,8 @@
+name: mtndrupal
+recipe: drupal9
+config:
+  php: '7.4'
+  webroot: web/
+proxy:
+  appserver:
+    - default.lndo.site
